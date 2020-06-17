@@ -1,5 +1,5 @@
 # Cryptocurrency blockchain network
-Application that illustrates a cryptocurrency blockchain network.
+An application that illustrates a cryptocurrency blockchain network.
 Based on client/server architecture with the help of POSIX message queues (MQ), 
 in which the miners(clients) are mining blocks(calculate hashes) and send those 
 blocks to a server that verifies and adds them to its blockchain.
