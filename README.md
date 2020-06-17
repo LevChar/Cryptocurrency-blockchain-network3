@@ -23,7 +23,8 @@ options to run the program:
 1) Run the Server from one terminal using the command ./server.out and run variable number of miners
 from different terminals using the command ./miner.out server_mq.
 
-2)Run the server and N miners in the same terminal using the command ./launcher <N>
+
+2) Run the server and N miners in the same terminal using the command ./launcher <N>
 
 ## **Compatibility:**
 Program was compiled and tested in Linux (Mint) environment.
